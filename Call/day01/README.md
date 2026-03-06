@@ -14,3 +14,13 @@ Upload to Gmail / Drive
 Local encrypted file delete
 
 ```
+
+
+```text
+callrecorder/
+ ├ main.py
+ ├ recorder.py
+ ├ encrypt.py
+ ├ uploader.py
+ └ buildozer.spec
+```
